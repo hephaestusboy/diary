@@ -6,14 +6,13 @@ If you enter the same date twice, it lets you edit the first entry.
 .
 ├── README.md
 ├── program.sh
-├── src
-│   ├── code
-│   ├── code.c
-│   ├── diary.sh
-│   ├── entry
-│   │   └── test.txt
-│   └── read.sh
-└── temp_structure.md
+└── src
+    ├── code
+    ├── code.c
+    ├── diary.sh
+    ├── entry
+    │   └── test.txt
+    └── read.sh
 
-3 directories, 9 files
+3 directories, 7 files
 ```
